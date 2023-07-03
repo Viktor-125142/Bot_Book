@@ -1,3 +1,4 @@
+<<<<<<< ours
 print('Way')
 
 
@@ -8,3 +9,9 @@ def function(a, d):
 
 
 print('просто')
+||||||| base
+print('Way')
+=======
+def new_function():
+    return 2*2
+>>>>>>> theirs
